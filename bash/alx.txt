@@ -1,0 +1,13 @@
+
+cd root
+cat >> #!/bin/bash.txt
+cat >> echo "ALX"
+cat >> echo "ALX".txt
+cat >> bash/school.txt
+cat >> #!/bin/bash.txt
+cat >> echo "School".txt
+git add .
+git add bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js
+git commit -m "Starting to code today, so cool"
+git push
+clear
